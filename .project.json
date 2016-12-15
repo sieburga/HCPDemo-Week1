@@ -6,7 +6,8 @@
   "build": {
     "targetFolder": "dist",
     "sourceFolder": "webapp",
-    "buildRequired": true
+    "buildRequired": true,
+    "lastBuildDateTime": "Thu, 15 Dec 2016 22:33:06 GMT"
   },
   "generation": [
     {
@@ -33,5 +34,10 @@
       "xml": "fioriXmlAnalysis",
       "js": "fioriJsValidator"
     }
+  },
+  "hcpdeploy": {
+    "account": "p1940791651trial",
+    "name": "hcpdemoweek1",
+    "lastVersionWeTriedToDeploy": "1.0.1"
   }
 }
